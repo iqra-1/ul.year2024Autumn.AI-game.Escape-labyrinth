@@ -8,21 +8,24 @@
 
 ## Basic configurations
 
-1. Speed: F > S (10% - 20%)
+1. Speed: F > S (10%)
+1. Burst: 5s (Make sound)
+    - F: 10%
+    - S: 40%
 1. Vision: Cone shape vision with a limited max angular velocity (Later)
 1. Sound: Both can hear 
-1. Communication: F can communicte wirelessly 
+1. Communication: F can communicate wirelessly 
     - What it hears
     - What it sees
     - Where it is and is heading toward 
     - Does it make sound anywhere
-1. Both get the map at start including start position of F and S, exits
+1. Both get start position of F and S, exits
 
 ## Environments 
 
 - Door: 
     - 1 way or 2 way 
-    - does it automatically close
+    - option: does it automatically close
     - size 
 - Immobile obstacle:
     - Wall: 
